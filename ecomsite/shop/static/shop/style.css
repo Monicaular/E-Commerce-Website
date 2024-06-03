@@ -1,0 +1,17 @@
+.card-text {
+    color: green;
+    font-weight: 800;
+}
+
+.card-img-top {
+    object-fit: cover;
+    height: 200px;
+    width: 100%;
+}
+.card {
+    height: 100%;
+    margin: 20px;
+}
+.card-title {
+    font-size: 1.25rem;
+}
