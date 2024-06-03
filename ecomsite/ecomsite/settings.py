@@ -124,5 +124,5 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 CSRF_TRUSTED_ORIGINS = [
-    'https://monicaular-ecommerceweb-k8s7qng0g27.ws-eu114.gitpod.io'
+    'https://8000-monicaular-ecommerceweb-k8s7qng0g27.ws-eu114.gitpod.io'
 ]
